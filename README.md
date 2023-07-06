@@ -1,4 +1,4 @@
 # Ecss Coop
 Issues 写博客挺不错。
 
-博客目录：https://github.com/voidswordQQJ/blog/issues
+新的博客地址（已运行一年，应该不会再动了）：https://blog.ecss.dev
